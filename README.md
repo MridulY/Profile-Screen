@@ -46,4 +46,4 @@ This React component represents a user profile layout. It utilizes data from a J
 
 - Created by Mridul Yadav
 
-![Profile Image](components\Example.png)
+![Alt Text](./src/components/Example.png)
